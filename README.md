@@ -1,1 +1,1 @@
-# This is the result of the coding test for IC.
+# Here is the code for the coding test.
